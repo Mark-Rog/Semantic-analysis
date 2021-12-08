@@ -13,4 +13,4 @@ creation of model that claasifies text on positive and negative
 
 Выводы.
 
-используемые навыки: Pandas, Numpy, Re, Sklearn, Catboost, Nltk
+используемые навыки: Pandas, Numpy, Re, Sklearn, Catboost, Nltk, TF-IDF
